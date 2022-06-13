@@ -1,4 +1,4 @@
-# Huan Chen's Homework #5 (Python Flask)
+# Minlan's Homework #5 (Python Flask)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
@@ -34,4 +34,4 @@
 8. Final Result no AI
 ![noAI](noAI.jpg)
 9 Final Result with AI @300 threshold
-![AI](AI.jpg)
+![setrandom](setrandom.png)
